@@ -3,6 +3,7 @@
 //Email: ebahena5@toromail.csudh.edu
 //Date: 03/18/2023
 //Moditfied yet again in a different branch (the fixtemp branch)
+//New changes made in updateText branch
 
 import java.io.File;
 import java.io.IOException;
